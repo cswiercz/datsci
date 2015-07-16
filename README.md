@@ -8,4 +8,4 @@ looking for data scientists. This repo is where I'm collecting what I learn.
 
 ## Author
 
-- Chris Swierczewski (cswiercz) (that's me!)
+- Chris Swierczewski [cswiercz](cswiercz@gmail.com) (that's me!)
